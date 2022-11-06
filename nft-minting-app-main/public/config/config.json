@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xB5f9b19c93989cF21718CcC3116AbCE0782C2a9d",
+  "SCAN_LINK": "https://polygonscan.com/address/0xb5f9b19c93989cf21718ccc3116abce0782c2a9d",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Big Trouble In Little China",
+  "SYMBOL": "BTLC",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 0,
+  "DISPLAY_COST": 1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/big-trouble-in-little-china-official",
+  "SHOW_BACKGROUND": true
+}
